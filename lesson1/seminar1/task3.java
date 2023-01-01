@@ -1,4 +1,4 @@
-package seminar1;
+package lesson1.seminar1;
 import java.util.Arrays;
 
 public class task3 {

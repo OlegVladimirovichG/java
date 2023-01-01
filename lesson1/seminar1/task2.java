@@ -1,4 +1,4 @@
-package seminar1;
+package lesson1.seminar1;
 /* дан массив чисел [1, 1, 0, 1, 1, 1], вывести максимальное количество подряд идущих 1 */
 public class task2 {
     public static void main(String[] args) {
